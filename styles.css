@@ -1,0 +1,23 @@
+/* Place your CSS styles in this file */
+
+h1 {
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+}
+body {
+    background-color: lightblue;
+    text-align: center;
+
+}
+img {
+    display: block;
+    margin: auto;
+}
+
+ol {
+    list-style-type: decimal;
+}
+
+ul {
+    list-style: square;
+}
